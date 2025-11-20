@@ -10,7 +10,7 @@ kiwisolver==1.4.9
 matplotlib==3.10.7
 nltk==3.9.2
 numpy==1.26.4
-packaging==25.0
+packaging<25
 pandas==2.3.3
 pillow==10.4.0
 protobuf==4.25.3
