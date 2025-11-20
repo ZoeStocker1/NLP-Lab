@@ -28,5 +28,5 @@ tqdm==4.67.1
 typing_extensions==4.15.0
 tzdata==2025.2
 wordcloud==1.9.4
-streamlit==1.33.0
+streamlit==1.38.0
 vaderSentiment==3.3.2
